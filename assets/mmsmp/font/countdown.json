@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/1.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/2.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/3.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/4.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/5.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/6.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/7.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/8.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/9.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/counter/10.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff10"
+            ]
+        }
+    ]
+}

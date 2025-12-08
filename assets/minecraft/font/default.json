@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:gui/icons/text_logo.png",
-            "ascent": 15,
+            "ascent": 20,
             "height": 50,
             "chars": [
                 "\uEff1"

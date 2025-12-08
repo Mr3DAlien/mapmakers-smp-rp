@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "mmsmp:minecraft.ttf",
+      "shift": [0, 14],
+      "size": 20,
+      "oversample": 4
+    }
+  ]
+}

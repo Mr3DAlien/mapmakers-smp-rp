@@ -2,15 +2,6 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "mmsmp:gui/icons/text_logo.png",
-            "ascent": 10,
-            "height": 18,
-            "chars": [
-                "\uEff1"
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "mmsmp:gui/icons/admin.png",
             "ascent": 7,
             "height": 8,
@@ -38,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mmsmp:gui/icons/friend.png",
+            "file": "mmsmp:gui/icons/stickypiston.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -47,20 +38,11 @@
         },
         {
             "type": "bitmap",
-            "file": "mmsmp:gui/icons/stickypiston_logo.png",
-            "ascent": 10,
-            "height": 18,
+            "file": "mmsmp:gui/icons/friend.png",
+            "ascent": 7,
+            "height": 8,
             "chars": [
                 "\uEff6"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "mmsmp:gui/icons/mr3dalien_logo.png",
-            "ascent": -20,
-            "height": 20,
-            "chars": [
-                "\uEff7"
             ]
         }
     ]

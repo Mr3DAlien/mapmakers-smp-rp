@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/text_logo.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/realms.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/mr3dalien_logo.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/stickypiston_logo.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "\uEff4"
+            ]
+        }
+    ]
+}

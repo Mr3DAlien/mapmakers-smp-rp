@@ -2,12 +2,54 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:gui/icons/text_logo.png",
-            "ascent": 20,
-            "height": 50,
+            "file": "minecraft:gui/icons/text_logo_01.png",
+            "ascent": 40,
+            "height": 60,
             "chars": [
                 "\uEff1"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/icons/text_logo_02.png",
+            "ascent": 40,
+            "height": 60,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/icons/text_logo_03.png",
+            "ascent": 40,
+            "height": 60,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/icons/text_logo_04.png",
+            "ascent": 40,
+            "height": 60,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/icons/text_logo_04.png",
+            "ascent": 40,
+            "height": 60,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\ue000": -1
+            }
         }
     ]
 }

@@ -104,6 +104,12 @@
             "advances": {
                 "\ue003": 5
             }
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\ue004": 70
+            }
         }
     ]
 }

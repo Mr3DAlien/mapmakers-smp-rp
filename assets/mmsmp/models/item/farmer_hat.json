@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made by Mr3DAlien",
 	"textures": {
 		"0": "mmsmp:item/hats/farmer_hat",
@@ -10,9 +11,9 @@
 			"to": [16, 0, 16],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 1], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 1], "texture": "#missing"},
-				"west": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"east": {"uv": [0, 3, 16, 4], "texture": "#0"},
+				"south": {"uv": [0, 3, 16, 4], "texture": "#0"},
+				"west": {"uv": [0, 3, 16, 4], "texture": "#0"},
 				"up": {"uv": [7.75, 12, 11.75, 16], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [7.75, 12, 11.75, 16], "rotation": 90, "texture": "#0"}
 			}
@@ -26,7 +27,7 @@
 				"south": {"uv": [12, 2, 14, 3], "texture": "#0"},
 				"west": {"uv": [10, 2, 12, 3], "texture": "#0"},
 				"up": {"uv": [10, 0, 12, 2], "texture": "#0"},
-				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
+				"down": {"uv": [8.75, 13, 10.75, 15], "texture": "#0"}
 			}
 		}
 	],
@@ -56,16 +57,20 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [30, -135, 0],
 			"translation": [0, 3.25, 0],
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
-			"translation": [0, 15.5, 0],
-			"scale": [1.65, 1.65, 1.65]
+			"translation": [0, 15.75, 0],
+			"scale": [1.8, 1.8, 1.8]
 		},
 		"fixed": {
+			"translation": [0, 2.75, 0],
 			"scale": [0.5, 0.5, 0.5]
+		},
+		"on_shelf": {
+			"translation": [0, 7.25, -4]
 		}
 	}
 }

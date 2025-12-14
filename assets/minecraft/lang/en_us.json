@@ -3,6 +3,7 @@
   "menu.options": "\ue001\ue100\ue003Options...",
   "menu.returnToGame": "\ue000\ue000\ue001\ue104Back to Game",
   "menu.returnToMenu": "\ue002\ue002Save and Quit to Title\ue002\ue003\ue103",
+  "menu.disconnect": "\ue004Disconnect\ue002\ue003\ue103",
 
   "soundCategory.voice": "Custom Title",
 

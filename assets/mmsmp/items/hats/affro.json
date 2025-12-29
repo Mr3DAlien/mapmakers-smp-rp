@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "mmsmp:item/affro",
+    "model": "mmsmp:item/hats/affro",
     "tints": []
   }
 }

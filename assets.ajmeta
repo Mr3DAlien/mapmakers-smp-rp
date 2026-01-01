@@ -230,6 +230,24 @@
 				"assets/animated_java/textures/blueprint/present/present.png",
 				"assets/animated_java/textures/blueprint/present/wrapped_present.png"
 			]
+		},
+		"ufo_aura": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/ufo_aura/1.json",
+				"assets/animated_java/items/blueprint/ufo_aura/1frame.json",
+				"assets/animated_java/items/blueprint/ufo_aura/2.json",
+				"assets/animated_java/items/blueprint/ufo_aura/2frame2.json",
+				"assets/animated_java/items/blueprint/ufo_aura/3frame3.json",
+				"assets/animated_java/items/blueprint/ufo_aura/4frame4.json",
+				"assets/animated_java/models/blueprint/ufo_aura/1.json",
+				"assets/animated_java/models/blueprint/ufo_aura/1frame.json",
+				"assets/animated_java/models/blueprint/ufo_aura/2.json",
+				"assets/animated_java/models/blueprint/ufo_aura/2frame2.json",
+				"assets/animated_java/models/blueprint/ufo_aura/3frame3.json",
+				"assets/animated_java/models/blueprint/ufo_aura/4frame4.json",
+				"assets/animated_java/textures/blueprint/ufo_aura/ufo.png"
+			]
 		}
 	}
 }

@@ -38,6 +38,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:gui/icons/bot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue205"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:gui/characters/pulluxx.png",
             "ascent": 15,
             "height": 20,

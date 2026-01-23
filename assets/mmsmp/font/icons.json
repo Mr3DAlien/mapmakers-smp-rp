@@ -44,6 +44,15 @@
             "chars": [
                 "\uEff6"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/bot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uEff7"
+            ]
         }
     ]
 }
